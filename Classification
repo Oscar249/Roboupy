@@ -1,0 +1,44 @@
+Answer in a markdown file labeled as “classification.md” the questions from [this page] https://bournetocode.com/projects/GCSE_Computing_Fundamentals/pages/3-2-9-class_prog_langs.html
+
+Explain why a developer, who is good at both low-level and high-level programming languages, would normally use a high-level language when writing programs? (4 Marks)
+Because is more easy to learn and faster to program, also the high levels use the natural English language and mathematical operators, making it easier to read and understand. One more thing, the programmer can show how the algorithm resolve a mathematical problem.
+
+What is machine code? (1 Mark)
+Is an executable binary code produced either by a complier, interpreter or assembler.
+
+Give an example of a high-level language? (1 Mark)
+Python.
+
+Gold
+
+Describe three differences between low-level language and high-level languages? (6 Marks)
+High level is independent and low level no, low level use binary code and high level translates into one machine code instructions.
+
+What does a translator do? (2 Marks)
+Interpreted a program language in English or in a binary format to understand it.
+
+Identify two types of translators that can turn high-level languages into machine code? (4 Marks)
+IF and THEN
+
+Platinum
+
+What is the difference between an interpreter and a compiler? (4 Marks)
+The interpreter save the translation of the source code for every time you will need to open the program, and the compiler translate all the source codes at the same time you run the program.
+
+What is assembly language? (2 Marks)
+Is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture’s machine code instructions.
+
+A developer is writing a program.
+a) The program is written in a high-level language and it is then translated into machine code. Describe two differences between high-level language and machine code? (2 Marks)
+In machine code instructions are in binary code. High-level code is designed to be read by human programmers. Machine code is to be read/executed by the computer High level code can be portable/translated for different machines Machine code is specific to a particular machine.
+
+b) One type of translator is an interpreter.
+
+i) Describe how an interpreter translates high-level language programs into machine code? (1 Mark)
+
+An interpreter translates code into machine code, instruction by instruction - the CPU executes each instruction before the interpreter moves on to translate the next instruction. Interpreted code will show an error as soon as it hits a problem, so it is easier to debug than compiled code.
+
+An interpreter does not create an independent final set of source code - source code is created each time it runs. Interpreted code is slower to execute than compiled code.
+
+ii) State the name of a different type of translator that can be used to translate high-level code into machine code? (1 Mark)
+Interpreter.
